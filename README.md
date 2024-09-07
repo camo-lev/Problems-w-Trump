@@ -15,7 +15,7 @@ https://www.congress.gov/bill/115th-congress/senate-bill/2135
   - The Trump campaign was filming and photographing in an area where only official Arlington photographers are allowed to do so.
   - When a cemetery official tried to enforce these rules, Trump's staff allegedly "verbally abused and pushed the official aside"
   - Arlington National Cemetery officials stated that all participants, including Trump's campaign, were informed of federal laws, Army regulations, and DoD policies prohibiting political activities on cemetery grounds
-### [Numerous reports of Trump making extremely disrespectful comments towards veterans]([https://www.militarytimes.com/news/pentagon-congress/2020/09/03/report-trump-disparaged-us-war-dead-as-losers-suckers/](https://www.federaltimes.com/news/pentagon-congress/2023/10/03/trump-insulted-vets-in-private-former-chief-of-staff-kelly-confirms/)
+### [Numerous reports of Trump making extremely disrespectful comments towards veterans](https://www.federaltimes.com/news/pentagon-congress/2023/10/03/trump-insulted-vets-in-private-former-chief-of-staff-kelly-confirms/)
   - These claims are made by John Kelly, a former 4 star Marine Corps general
   - John Kelly was also Trump's own Chief of Staff during Trump's presidency.
 
@@ -31,9 +31,11 @@ https://www.congress.gov/bill/115th-congress/senate-bill/2135
 Trump, Kenneth Cheesebro, Rudy Giuliani, John Eastman, and various (84) other Republicans planned and implemented this scheme.*
 
 **This would have resulted in 7 states swapping their electoral college vote from Biden to Trump**
+### [Trump's team conspired to send in "fake" electors, and even called them that in their communications](https://www.justice.gov/storage/US_v_Trump_23_cr_257.pdf) 
+  - "We would just be sending in 'fake' electoral votes to Pence so that 'someone' in Congress can make an objection when they start counting votes, and start arguing that the 'fake' votes should be counted." Page 24/45, although the entire doc is damning.
 ### Trump amplified debunked claims of voter fraud in the 2020 election, which lead to the riots on 01/06
-  - These claims had been debunked in court: 62 lawsutis in total; 61/62 of the lawsuits were dismisssed, only one (very minor) victory. The lawsuits were thrown out for various reasons, such as lack of legal standing, procedural errors in the filings, allegations without merit, and largely a lack of evidence.
-  - 
+  - These claims had been debunked in court: 62 lawsuits in total; 61/62 of the lawsuits were dismisssed, only one (very minor) victory. The lawsuits were thrown out for various reasons, such as lack of legal standing, procedural errors in the filings, allegations without merit, and largely a lack of evidence.
+  - [Giuliani admitted to making false statements about the Georgia election workers](https://storage.courtlistener.com/recap/gov.uscourts.dcd.238720/gov.uscourts.dcd.238720.84.2.pdf), but he [argued that his statements were protected by the First Amendment](https://casetext.com/case/freeman-v-giuliani).
 ### [Trump waited 3 hours to call off the 01/06 riots during the certification of the election](https://www.americanoversight.org/timeline-jan6)
   - Despite claims online, rioters DID break into the capital using force.
   - Police did NOT lead the rioters in, instead they diverted them away from various officials (including Pence) because they were overwhelmed and outnumbers. This occurred after they had already broken in.
