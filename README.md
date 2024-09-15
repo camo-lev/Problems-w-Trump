@@ -43,7 +43,31 @@ Trump, Kenneth Cheesebro, Rudy Giuliani, John Eastman, and various (84) other Re
 ### During the 01/06 riots, Trump used the riots to pressure Pence into falling in line with his plan; Pence rejected this pressure.
   - Had Mike Pence agreed, the election would not have been certified on 01/06 as it was (although it was delayed due to the riots, also instigated by Trump).
   - Pence and other officials were pressured via various means, including direct phone calls from Trump and [tweets attacking them on 01/06](https://www.presidency.ucsb.edu/documents/tweets-january-6-2021). 
-### Many of the fake electors are now being prosecuted in their state courts. (some fake electors from states like PA & NM hedged their language, likely saving them from prosecution) 
-  - 
+### [Many of the fake electors are now being prosecuted in their state courts. (some fake electors from states like PA & NM hedged their language, likely saving them from prosecution)](https://www.citizensforethics.org/reports-investigations/crew-reports/the-cases-against-fake-electors-and-where-they-stand/)
+  - [Arizona](https://www.azag.gov/press-release/attorney-general-mayes-announces-names-additional-defendants-fake-elector-case)
+    - Includes: Rudy Guiliani, Mark Meadows, John Eastment, and other Republican fake electors..
+  - [Georgia](https://www.fultonclerk.org/DocumentCenter/View/2092/MOTION-08-16-2023-151715-39070073-1C86D04A-9755-4D11-B5B2-0C36FAC21C70)
+    - Includes: Donald Trump, John Eastman, Rudy Guiliani, Mart Meadows, and other Republicans..
+    - This is the case regarding notorious [phone call](https://www.atlantanewsfirst.com/2023/02/15/read-full-transcript-donald-trumps-call-brad-raffensperger/) where Trump asks Brad Raffensperger, the Georgia Secretary of State, to ["find 11,780 votes"](https://youtu.be/CeYDPjT5zTg), which would be only ONE more vote than Biden had, reversing the state.
+    - Some critics say this was Trump attempting to find evidence to present to authorities such as the FBI to justify further investigation, although this is unlikely given the number he cited. And because Brad (a Republican himself) himself disagreed with Trump due to their own recounts and audits in the state. (More info and sources on state recounts/audits below)
+  - [Michigan](https://www.michigan.gov/ag/-/media/Project/Websites/AG/releases/2023/July/Felony-Complaints-Redacted-combined.pdf)
+    - Includes: Various Republican Michiganders who were engaged party activists.
+    - [More info...](https://statesunited.org/resources/michigan-fake-electors/)
+  - [Nevada](https://ag.nv.gov/News/PR/2023/Attorney_General_Ford_Announces_the_Indictment_of_Six_Nevadans_Who_Falsely_Represented_Themselves_as_State_Electors_in_2020/)
+    - Includes: Various (6) Nevada Republicans who were engaged party activists.
+    - On June 21, 2024 a Clark County District Court dismissed the charges for lack of jurisdiction. The Attorney General promised to appeal.
+  - [Wisconsin](https://www.law.georgetown.edu/icap/our-work/promoting-good-government-voting-rights-whistleblowers-and-transparency/penebaker-v-hitt/)
+    - Includes: James Troupis, legal adviser Kenneth Chesebro, and the 10 Trump-Pence electors in Wisconsin.
+    - This case is already closed, as the defendents settled, which included the following:
+      - Acknowledgements that their actions were part of an effort to overturn the 2020 election results.
+      - Agreement to not serve as electors in the election or sign false certifications in future elections.
+  - Pennsylvania: TODO
+  - New Mexico: TODO
+
+### There were no recounts or audits to help reassure 2020 Presidential election results
+  TODO, make a table for each swing state with columns for number of audits and recounts
+  provide sources
+    
+ 
 
 
